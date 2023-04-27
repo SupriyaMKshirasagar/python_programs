@@ -4,4 +4,4 @@
 # Blog on sawmill
 -[Link](https://hkulkarni379.wixsite.com/kulkarni-saw-mill)
 # PPT ON CHAT BOAT
--[Link](https://github.com/SupriyaMKshirasagar/python_programs/tree/main/ppt)
+-[Chat Boat](https://github.com/SupriyaMKshirasagar/python_programs/tree/main/ppt)
