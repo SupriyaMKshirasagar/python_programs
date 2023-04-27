@@ -4,5 +4,6 @@
 # Blog on sawmill
 -[Link](https://hkulkarni379.wixsite.com/kulkarni-saw-mill)
 # PPT ON CHAT BOAT
--[Chat Boat\n](https://github.com/SupriyaMKshirasagar/python_programs/tree/main/ppt)
+-[Chat Boat](https://github.com/SupriyaMKshirasagar/python_programs/tree/main/ppt)
+# PPT ON DEFENCE DRONE
 -[Defence Drone](https://github.com/SupriyaMKshirasagar/python_programs/blob/main/ppt/Presentationdrone%20(1).pptx)
