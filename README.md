@@ -6,4 +6,4 @@
 # PPT ON CHAT BOAT
 -[Chat Boat](https://github.com/SupriyaMKshirasagar/python_programs/tree/main/ppt)
 # PPT ON DEFENCE DRONE
--[Defence Drone](https://github.com/SupriyaMKshirasagar/python_programs/blob/main/ppt/Presentationdrone%20(1).pptx)
+-[Defence Drone](https://github.com/SupriyaMKshirasagar/python_programs/blob/main/ppt/DEFENCE%20DRONE.pptx)
