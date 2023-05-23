@@ -2,9 +2,9 @@ from tkinter import *
 from tkinter import messagebox
 import csv
 
-
 root = Tk()
 root.title("Data Management Application")
+
 
 date_label = Label(root, text="Date:")
 date_label.grid(row=0, column=0)
@@ -35,6 +35,8 @@ phone_label = Label(root, text="Phone Number:")
 phone_label.grid(row=5, column=0)
 phone_entry = Entry(root)
 phone_entry.grid(row=5, column=1)
+
+
 
 
 
