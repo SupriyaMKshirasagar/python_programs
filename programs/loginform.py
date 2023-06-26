@@ -60,22 +60,9 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
+   "execution_count": 7,
    "metadata": {},
-   "outputs": [
-    {
-     "ename": "KeyboardInterrupt",
-     "evalue": "",
-     "output_type": "error",
-     "traceback": [
-      "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
-      "\u001b[1;31mKeyboardInterrupt\u001b[0m                         Traceback (most recent call last)",
-      "\u001b[1;32m~\\AppData\\Local\\Temp\\ipykernel_13180\\3540611395.py\u001b[0m in \u001b[0;36m<module>\u001b[1;34m\u001b[0m\n\u001b[0;32m     46\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m     47\u001b[0m \u001b[0mButton\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mbase\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mtext\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;34m\"Register\"\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mwidth\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;36m10\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mplace\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mx\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;36m200\u001b[0m\u001b[1;33m,\u001b[0m\u001b[0my\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;36m400\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m---> 48\u001b[1;33m \u001b[0mbase\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mmainloop\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m",
-      "\u001b[1;32mc:\\Program Files\\anaconda\\lib\\tkinter\\__init__.py\u001b[0m in \u001b[0;36mmainloop\u001b[1;34m(self, n)\u001b[0m\n\u001b[0;32m   1427\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0mmainloop\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mn\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;36m0\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   1428\u001b[0m         \u001b[1;34m\"\"\"Call the mainloop of Tk.\"\"\"\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m-> 1429\u001b[1;33m         \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mtk\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mmainloop\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mn\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m   1430\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   1431\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0mquit\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
-      "\u001b[1;31mKeyboardInterrupt\u001b[0m: "
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "from tkinter import *  \n",
     "base = Tk()  \n",
