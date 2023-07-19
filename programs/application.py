@@ -1,6 +1,6 @@
 import tkinter as ss    #importing tkinter
 
-main = ss.Tk(className="emi calculator")  #changing dailog box name
+main = ss.Tk(className="NAME AND PASSWORD")  #changing dailog box name
 
 
 
