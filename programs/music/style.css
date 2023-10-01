@@ -1,0 +1,98 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+  }
+   .container{
+    width: 100%;
+    height:100vh;
+    background:#858686;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+   }
+
+   .music_player{
+    background :#c4c4e4;
+    width: 40px; 
+    padding: 25px 35px;
+    text-align :center;
+  }
+  nav{
+     display: flex;
+     justify-content: space-between;
+     margin-bottom: 30px;
+  }
+  nav.circle
+  {
+     border-radius: 50%;
+     width: 40px;
+     height: 40px;
+     line-height: 40px;
+     background: #fff;
+     color:#4734f5;
+     box-shadow: 0 5px 10px rgba(62, 104, 243, 0.22);
+  }
+  .song-img{
+      width: 220px;
+      border-radius: 50%;
+      border: 8px solid#fff;
+      box-shadow: 0 10px 60px rgba(15, 15, 15, 0.22);
+  }
+  .music-player h1{
+      font-size: 20px;
+      font-weight: 400;
+      text-align: center;
+      color:#0c0c0c;
+      margin-top: 20px;
+  }
+  .music-player p{
+    font-size:14px;
+    text-align: center;
+    color: #111111;
+  }
+  #progress{
+    -webkit-appearance: none;
+    width: 100%;
+    height: 6px;
+    background: #6c31f5;
+    border-radius: 1px;
+    cursor: pointer;
+    margin: 40px 0;
+  }
+  #progress::-webkit-slider-thumb{
+     -webkit-appearance:none;
+     background: #7631f5;
+     width: 20px;
+     height: 20px;
+     border-radius: 50%;
+     border: 4px solid #fff;
+     box-shadow: 0 5px 5px rgba(255,26,26,0.22);
+  }
+  .controls{
+    display:flex;
+    justify-content: center;
+    align- items: center;
+  }
+  .controls div{
+     width:30px;
+     height:30px;
+     margin: 20px;
+     background: #fff;
+     display: inline-flex;
+     align-items: center;
+     justify-content: center;
+     border-radius: 50%;
+     color: #8928f8;
+     box-shadow: 0 10px 20px rgba(255,26,26,0.22);
+     cursor: pointer;
+  }
+  .controls div:nth-child(2){
+     transform: scale(1.5);
+     background: #3e31f5;
+     color: #fff;
+  }
+  
+  
